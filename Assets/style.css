@@ -1,6 +1,4 @@
-
 .navbar{
-
     font-size: x-large;
     font-weight: 500;
 }
@@ -10,9 +8,6 @@
 @media only screen and (max-width:1024px) {
     .carousel-inner img{
         height: 40vh;
-    }
-    body{
-        overflow: hidden;
     }
     
 }
